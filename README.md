@@ -5,7 +5,7 @@ This is a Web app which aims to solve the funding problems that happen during th
 
 Samad Charania
 
-Eshu Thakur
+Eshu Thakur(Ujjwal Jadoun)
 
 Soham Tomar
 
